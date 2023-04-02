@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif&family=Parisienne&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family: "PT Serif", serif;
+	font-size: 16px;
+	margin: 0px;
+}
+
+h1{
+	font-family: "Parisienne", cursive;
+	font-weight: bolder;
+}
+
+a{ 
+	color: deeppink;
+	font-weight: bold;
+	text-decoration: none;
+ }
+
+a:hover {
+	color: lightpink;
+}
+
+ul{
+	color: deeppink;
+}
+
+h2{
+	font-size: 20px;
+	margin-top: 30px;
+}
+
+.form{
+	margin-top: 30px;
+	border-radius: 0px;
+}
